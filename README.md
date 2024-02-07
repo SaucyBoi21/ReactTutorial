@@ -1,2 +1,2 @@
 # ReactTutorial
-Building sample app in react
+Building sample app in React
